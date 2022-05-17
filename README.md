@@ -1,5 +1,6 @@
 # Local-Store
  - Download/clone repo.
+ - Install pipenv shell (https://pypi.org/project/pipenv/) using `pip install pipenv`
  - Activate a virtual environmentshel `pipenv shell`.
  - Install Django and other dependencies with  `pipenv install`.
  - Enter into ecom_backend directory using `cd ecom_backend`.
